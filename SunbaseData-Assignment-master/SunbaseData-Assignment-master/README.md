@@ -24,9 +24,7 @@
 ## Update customer - 
 ![updateCustomer](https://github.com/vimaurya/SunbaseData-Assignment/assets/140162190/837a657b-b1c1-4939-8bd0-4828c214d4ca)
 
-### Extra feature - If someone tries to jump on any of the pages without loggin in the webfilter would redirect the user to login page : 
-### In the URL we can see that the user is requesting to see the customer list
-![feature](https://github.com/vimaurya/SunbaseData-Assignment/assets/140162190/72b397da-ae7a-4ae1-9428-d2408866f1e3)
+
 
 
 
